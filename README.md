@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Laura Anderson
+## Business Administration Student
 
-<!--
-**Lauraandersondev/Lauraandersondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Business Administration at San Jose City College, 
+with a passion for leveraging technology to solve business problems. 
+I'm interested in combining business strategy with technical solutions 
+to create impactful applications.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- Built a stock bot using RAG (Retrieval-Augmented Generation) agent
+- Exploring business automation and data-driven decision making
+- Learning to bridge the gap between business needs and technical solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning
+- GitHub and version control
+- React for web development
+- Integrating AI/ML into business applications
+
+### 💻 Technical Skills
+- Web: React
+- Tools: Git, GitHub
+- AI/ML: RAG agents, automation tools
+
+### 📫 How to reach me
+- Email: lauraandersonbus@gmail.com
+- LinkedIn: [Your LinkedIn URL]
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauraandersondev)
