@@ -23,7 +23,7 @@ to create impactful applications.
 
 ### 📫 How to reach me
 - Email: lauraandersonbus@gmail.com
-- LinkedIn: [Your LinkedIn URL]
-
+- LinkedIn: [[Your LinkedIn URL]
+](https://www.linkedin.com/in/laura-anderson-7271653a0/)
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lauraandersondev)
